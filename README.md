@@ -35,15 +35,25 @@ Key aims:
 
 ### Requirements
 
-## Python Packages Required
+## ✅ Python Requirements
 
-- pandas
-- numpy
-- matplotlib
-- openai
-- transformers
-- scikit-learn
+To run the notebook, install these Python packages:
+
 - PyPDF2
-- jupyter
+- openai
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+- openpyxl
+- torch
+- nltk
+- transformers
+
+You can install them all with:
+
+```bash
+pip install PyPDF2 openai pandas matplotlib scikit-learn seaborn openpyxl torch nltk transformers
+
 
 
