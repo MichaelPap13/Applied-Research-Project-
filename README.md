@@ -35,15 +35,15 @@ Key aims:
 
 ### Requirements
 
-- Python ≥ 3.9
+## Python Packages Required
+
 - pandas
 - numpy
 - matplotlib
 - openai
 - transformers
 - scikit-learn
+- PyPDF2
+- jupyter
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
